@@ -55,4 +55,5 @@ This project is intended as a learning resource and is not actively maintained f
 ## **Result**
 ![Image](https://github.com/user-attachments/assets/cc85a1f6-710d-487d-be34-1ff48f7a4c3a)
 
-This structured guide provides an easy-to-follow explanation of how the Langchain Ask PDF application works, from installation to usage.
+---
+
