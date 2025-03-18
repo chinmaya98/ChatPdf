@@ -16,7 +16,7 @@ def main():
     #print(f"API Key: '{openai_api_key}'")  # Check if it's loading correctly
 
     st.set_page_config(page_title="Ask your PDF")
-    st.header("Ask your PDF :books:")
+    st.header(":books: Ask your PDF ")
     
     # upload file
     pdf = st.file_uploader("Upload your PDF", type="pdf")
